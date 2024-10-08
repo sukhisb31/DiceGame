@@ -1,0 +1,15 @@
+.container-section{
+    max-width: 800px;
+    border: none;
+
+}
+
+.rules-p{
+    max-width: 800px;
+    background-color: #fbf1f1;
+    font-size: 16px;
+    font-weight: 500;
+    height: 90px;
+    line-height: 25px;
+   
+}
